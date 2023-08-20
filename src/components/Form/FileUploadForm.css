@@ -1,0 +1,26 @@
+
+
+.form-container {
+    width: 80%;
+    margin: 40px auto; /* Add top and bottom margin */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(to bottom, #e0bcf0, #e28adc); /* Add background color */
+  }
+  .button-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .save-button {
+    margin-right: 8px;
+  }
+  
+  .ant-input {
+    width: 100%; /* Full width input */
+    max-width: 300px; /* Maximum width for the input box */
+  }
+  
